@@ -1,0 +1,42 @@
+.vscode/*
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+Angular_discGolf/node_modules
+Angular_discGolf/npm-debug.log
+Angular_discGolf/yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+Angular_discGolf/.angular/cache/*
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+target/
+# System files
+.DS_Store
+Thumbs.db
+
